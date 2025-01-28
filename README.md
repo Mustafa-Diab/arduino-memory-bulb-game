@@ -15,7 +15,7 @@ This project uses Arduino and basic electronic components to create an engaging 
 
 - Randomized patterns for endless replayability.  
 - Adjustable difficulty by changing the number of bulbs or speed of the sequence.  
-- Feedback for correct and incorrect inputs (e.g., sounds or LED indicators).  
+- Feedback for correct and incorrect inputs (e.g., sounds & LED indicators).  
 
 ## 🛠️ Components Required  
 
