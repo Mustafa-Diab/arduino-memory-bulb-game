@@ -42,4 +42,4 @@ Set up the LEDs and buttons on a breadboard as shown:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/memory-bulb-game.git  
+   git clone https://github.com/Mustafa-Diab/arduino-memory-bulb-game.git 
